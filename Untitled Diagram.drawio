@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-11-14T13:58:28.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="UCxy1BDpoU1zFrjtQ3kJ" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T13:58:52.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="DKzeQ-K8bqyrQd-dK9Vd" version="12.2.6" type="github" pages="1">
   <diagram id="MwoShXv7jQLjujggLV_c" name="Page-1">
     <mxGraphModel dx="768" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-11" value="O API ou embalagem está dentro da validade?" style="strokeWidth=2;shape=mxgraph.flowchart.decision;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="260" width="150" height="100" as="geometry"/>
+        </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="_BS7B_x0S_EDMenffGN3-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="310" as="targetPoint"/>
@@ -13,9 +16,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="440" as="targetPoint"/>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_BS7B_x0S_EDMenffGN3-11" value="O API ou embalagem está dentro da validade?" style="strokeWidth=2;shape=mxgraph.flowchart.decision;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="605" y="260" width="150" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9XUinUo9Wm95Iz5dZyXL-1" target="_BS7B_x0S_EDMenffGN3-1">
           <mxGeometry relative="1" as="geometry"/>
