@@ -1,1 +1,53 @@
-<mxfile host="www.draw.io" modified="2019-11-14T13:36:12.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="yy3CS7uuyrSBoO5t4U7p" version="12.2.6" type="github" pages="1"><diagram id="MwoShXv7jQLjujggLV_c" name="Page-1">jZJNb4MwDIZ/DcdVQEo/ruu6D2k7VVWrXaaIpCRaglFwB/TXLwwDRVWlXSLnyZs4fu2AbWz94nihPkBIE8ShqAP2FMTxcrHyawsaAvG8A5nTokPRCHb6IgmGRM9ayHIiRACDupjCFPJcpjhh3DmoprITmGnWgmfyBuxSbm7pQQtUHV0l4chfpc5UnzkK6cTyXkygVFxAdYXYNmAbB4BdZOuNNK13vS/dvec7p8PHnMzxPxfWx73O97A+2HXydknEZ3N8f6BXfrg5U8H0WWx6B0p08D0U77/9qNAaH0Y+9EUVrc7WWdv+2clAlSrucFaiX79aeaU0yl3B01ZYeZlnlFY6lPXdeqLBJT9dEqxE13gJXWCMjKXJmtO2Gtu0JKSuOrQgxmkwsuHh0TsfkH39dmzT39nVrLPtLw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-14T13:58:28.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="UCxy1BDpoU1zFrjtQ3kJ" version="12.2.6" type="github" pages="1">
+  <diagram id="MwoShXv7jQLjujggLV_c" name="Page-1">
+    <mxGraphModel dx="768" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="_BS7B_x0S_EDMenffGN3-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="_BS7B_x0S_EDMenffGN3-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-11" value="O API ou embalagem está dentro da validade?" style="strokeWidth=2;shape=mxgraph.flowchart.decision;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="260" width="150" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9XUinUo9Wm95Iz5dZyXL-1" target="_BS7B_x0S_EDMenffGN3-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9XUinUo9Wm95Iz5dZyXL-1" target="_BS7B_x0S_EDMenffGN3-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9XUinUo9Wm95Iz5dZyXL-1" target="_BS7B_x0S_EDMenffGN3-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9XUinUo9Wm95Iz5dZyXL-1" target="_BS7B_x0S_EDMenffGN3-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="9XUinUo9Wm95Iz5dZyXL-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="330" y="40" width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;MATÉRIA-PRIMA&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;PX INTERNO&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;EMBALAGEM&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="140" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="_BS7B_x0S_EDMenffGN3-4" target="_BS7B_x0S_EDMenffGN3-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="_BS7B_x0S_EDMenffGN3-4" value="&lt;font style=&quot;font-size: 10px&quot;&gt;API&#39;S E EMBALAGENS &lt;br&gt;ELANCO&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="160" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
