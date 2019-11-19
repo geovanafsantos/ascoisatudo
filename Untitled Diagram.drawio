@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T20:26:20.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="5PnFqVVZMJmrwxucC5XT" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T20:28:53.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="j1v1Mgs00D2VOr9Rb0QA" version="12.2.6" type="github" pages="1">
   <diagram id="MwoShXv7jQLjujggLV_c" name="Page-1">
     <mxGraphModel dx="2070" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="_BS7B_x0S_EDMenffGN3-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="_BS7B_x0S_EDMenffGN3-127" target="_BS7B_x0S_EDMenffGN3-133" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="_BS7B_x0S_EDMenffGN3-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="_BS7B_x0S_EDMenffGN3-127" target="_BS7B_x0S_EDMenffGN3-142" edge="1">
+        <mxCell id="_BS7B_x0S_EDMenffGN3-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_BS7B_x0S_EDMenffGN3-127" target="_BS7B_x0S_EDMenffGN3-142" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-127" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;É item especial?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;align=center;fillColor=#FFB366;" parent="1" vertex="1">
@@ -232,24 +232,21 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-141" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FF9999;fontSize=25;labelBorderColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-745" y="1265" width="77" height="30" as="geometry"/>
+          <mxGeometry x="-745" y="1415" width="77" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="veGsAzref-AViSy-ikYg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_BS7B_x0S_EDMenffGN3-142" target="_BS7B_x0S_EDMenffGN3-146" edge="1">
+        <mxCell id="veGsAzref-AViSy-ikYg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_BS7B_x0S_EDMenffGN3-142" target="_BS7B_x0S_EDMenffGN3-146" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-142" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FF9999;fontSize=25;labelBorderColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="130" y="1135" width="77" height="30" as="geometry"/>
+          <mxGeometry x="-132" y="1295" width="77" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="NiidTVScThuAWgMh_7kg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_BS7B_x0S_EDMenffGN3-146" target="_BS7B_x0S_EDMenffGN3-167">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-146" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Plano de ação&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=14;fillColor=#FF99CC;" parent="1" vertex="1">
-          <mxGeometry x="-339.5" y="1260" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-339.5" y="1410" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="veGsAzref-AViSy-ikYg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_BS7B_x0S_EDMenffGN3-154" target="_BS7B_x0S_EDMenffGN3-164" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="NiidTVScThuAWgMh_7kg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_BS7B_x0S_EDMenffGN3-154" target="_BS7B_x0S_EDMenffGN3-181">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-154" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Planejamento&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=16;fillColor=#A9C4EB;" parent="1" vertex="1">
@@ -259,13 +256,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-155" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=14;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="-333.5" y="1570" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-328.5" y="1700" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="veGsAzref-AViSy-ikYg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_BS7B_x0S_EDMenffGN3-156" target="veGsAzref-AViSy-ikYg-6" edge="1">
+        <mxCell id="veGsAzref-AViSy-ikYg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_BS7B_x0S_EDMenffGN3-156" target="veGsAzref-AViSy-ikYg-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-156" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Qualidade&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=14;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="-333.5" y="1725" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-329.5" y="1807.5" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="veGsAzref-AViSy-ikYg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" source="_BS7B_x0S_EDMenffGN3-158" target="_BS7B_x0S_EDMenffGN3-193" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -283,10 +280,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-167" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;É possível alterar uma fórmula para utilizar?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fontSize=14;align=center;fillColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="217" y="1396" width="191" height="179" as="geometry"/>
+          <mxGeometry x="217" y="1500.5" width="191" height="179" as="geometry"/>
+        </mxCell>
+        <mxCell id="NiidTVScThuAWgMh_7kg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_BS7B_x0S_EDMenffGN3-181" target="_BS7B_x0S_EDMenffGN3-154">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_BS7B_x0S_EDMenffGN3-181" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Alteração de fórmula&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=14;fillColor=#A680B8;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="1860" width="120" height="40" as="geometry"/>
+          <mxGeometry x="-680" y="1910" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="veGsAzref-AViSy-ikYg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_BS7B_x0S_EDMenffGN3-186" target="_BS7B_x0S_EDMenffGN3-158" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -339,7 +339,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="veGsAzref-AViSy-ikYg-6" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FF9999;fontSize=25;labelBorderColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-658.5" y="1610" width="77" height="25" as="geometry"/>
+          <mxGeometry x="-658.5" y="1815" width="77" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="veGsAzref-AViSy-ikYg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="veGsAzref-AViSy-ikYg-27" target="_BS7B_x0S_EDMenffGN3-30" edge="1">
           <mxGeometry relative="1" as="geometry"/>
