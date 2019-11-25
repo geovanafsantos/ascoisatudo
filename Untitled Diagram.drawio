@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-25T14:05:38.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="9_A5E-VYeuW8cXZKW31O" version="12.3.0" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-25T14:06:42.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="LOtN6zuLS0OSkZDoKSIv" version="12.3.0" type="github" pages="2">
   <diagram id="MwoShXv7jQLjujggLV_c" name="Page-1">
     <mxGraphModel dx="2186" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -372,7 +372,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="SlfrhGzruR9ygDXMdmw5-0" value="CRÍTICO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FF9999;fontSize=18;labelBorderColor=#000000;fontStyle=1" vertex="1" parent="xFY5tL6zFc0up--EZYpj-1">
-          <mxGeometry x="-1396" y="140" width="92" height="40" as="geometry"/>
+          <mxGeometry x="-1396" y="255" width="92" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="k0Kmbm_tbgv9Nxkf6hvb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="xFY5tL6zFc0up--EZYpj-1" source="SlfrhGzruR9ygDXMdmw5-1" target="k0Kmbm_tbgv9Nxkf6hvb-2">
           <mxGeometry relative="1" as="geometry"/>
@@ -389,7 +389,7 @@
         <mxCell id="SlfrhGzruR9ygDXMdmw5-2" value="VENCIDO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FF9999;fontSize=18;labelBorderColor=#000000;fontStyle=1" vertex="1" parent="xFY5tL6zFc0up--EZYpj-1">
           <mxGeometry x="-493.5" y="180" width="91" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="LgOsvgVuIcTCvaywj0sO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xFY5tL6zFc0up--EZYpj-1" source="NV126xnW8DaKlVPPlkn_-0" target="SlfrhGzruR9ygDXMdmw5-0">
+        <mxCell id="LgOsvgVuIcTCvaywj0sO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xFY5tL6zFc0up--EZYpj-1" source="NV126xnW8DaKlVPPlkn_-0" target="SlfrhGzruR9ygDXMdmw5-0">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="LgOsvgVuIcTCvaywj0sO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="xFY5tL6zFc0up--EZYpj-1" source="NV126xnW8DaKlVPPlkn_-0" target="SlfrhGzruR9ygDXMdmw5-1">
@@ -808,9 +808,6 @@
         </mxCell>
         <mxCell id="C1MWHUw27f6aL4qTtWcw-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Alocação no centro de custos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=16;fillColor=#FF0000;" vertex="1" parent="xFY5tL6zFc0up--EZYpj-1">
           <mxGeometry x="1429.5" y="1575" width="228" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="C1MWHUw27f6aL4qTtWcw-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=16;" vertex="1" parent="xFY5tL6zFc0up--EZYpj-1">
-          <mxGeometry x="-570" y="1458" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="C1MWHUw27f6aL4qTtWcw-85" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=16;" vertex="1" parent="xFY5tL6zFc0up--EZYpj-1">
           <mxGeometry x="-1436" y="1955" width="40" height="20" as="geometry"/>
