@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T02:38:07.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="bL30CTC7dN_nYgOgNtLV" version="13.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-15T02:49:37.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="FrwoJ8XBn9jfob1l_oKy" version="13.2.4" type="github" pages="4">
   <diagram id="NAXL_VbFgQzSa9E5GdGz" name="MATÉRIA-PRIMA">
-    <mxGraphModel dx="1108" dy="5163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="5163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,11 +296,11 @@
         <mxCell id="lAlECgonStfRfdP6-1m2-21" value="MOVIMENTAÇÕES PX INTERNO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#FFCCE6;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
           <mxGeometry x="688.12" y="-3219.25" width="273.75" height="79.25" as="geometry" />
         </mxCell>
-        <mxCell id="lAlECgonStfRfdP6-1m2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lAlECgonStfRfdP6-1m2-1" source="lAlECgonStfRfdP6-1m2-23" target="lAlECgonStfRfdP6-1m2-28">
+        <mxCell id="xxSljDDeK8g1tNHwxMjp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lAlECgonStfRfdP6-1m2-1" source="lAlECgonStfRfdP6-1m2-23" target="lAlECgonStfRfdP6-1m2-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lAlECgonStfRfdP6-1m2-23" value="&lt;font style=&quot;font-size: 26px&quot;&gt;ETAPA 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=18;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1974" y="-3410" width="152.5" height="58.87" as="geometry" />
+        <mxCell id="lAlECgonStfRfdP6-1m2-23" value="&lt;font style=&quot;font-size: 26px&quot;&gt;ETAPA 2 - DT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=18;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="1946.19" y="-3390" width="206.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lAlECgonStfRfdP6-1m2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="lAlECgonStfRfdP6-1m2-1" source="lAlECgonStfRfdP6-1m2-28" target="lAlECgonStfRfdP6-1m2-30">
           <mxGeometry relative="1" as="geometry" />
@@ -315,7 +315,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lAlECgonStfRfdP6-1m2-28" value="&lt;font style=&quot;font-size: 26px&quot;&gt;CONVERSÃO - PX INTERNO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=18;fillColor=#CCCCCC;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1833.75" y="-3140" width="433" height="74.5" as="geometry" />
+          <mxGeometry x="1833.75" y="-3130" width="433" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="xxSljDDeK8g1tNHwxMjp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="lAlECgonStfRfdP6-1m2-1" source="lAlECgonStfRfdP6-1m2-30" target="lAlECgonStfRfdP6-1m2-40">
           <mxGeometry relative="1" as="geometry" />
@@ -344,8 +344,8 @@
         <mxCell id="lAlECgonStfRfdP6-1m2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="lAlECgonStfRfdP6-1m2-1" source="lAlECgonStfRfdP6-1m2-40" target="lAlECgonStfRfdP6-1m2-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lAlECgonStfRfdP6-1m2-40" value="ETAPA 3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1974.0000000000002" y="-2460" width="152.5" height="58.87" as="geometry" />
+        <mxCell id="lAlECgonStfRfdP6-1m2-40" value="ETAPA 3 - ESTOQUE" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="1887.25" y="-2460" width="326" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lAlECgonStfRfdP6-1m2-41" value="MOVIMENTAÇÕES PX INTERNO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#FFCCE6;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
           <mxGeometry x="2794.5" y="-2385.5" width="271.25" height="90" as="geometry" />
@@ -357,7 +357,7 @@
           <mxGeometry x="2832" y="-2570" width="196.25" height="58.87" as="geometry" />
         </mxCell>
         <mxCell id="lAlECgonStfRfdP6-1m2-48" value="&lt;font style=&quot;font-size: 26px&quot;&gt;MOVIMENTAÇÃO DE ESTOQUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1900.5000000000002" y="-2240" width="299.5" height="69.5" as="geometry" />
+          <mxGeometry x="1895.5" y="-2220" width="309.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xxSljDDeK8g1tNHwxMjp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lAlECgonStfRfdP6-1m2-1" source="lAlECgonStfRfdP6-1m2-55" target="lAlECgonStfRfdP6-1m2-40">
           <mxGeometry relative="1" as="geometry" />
@@ -389,23 +389,26 @@
         <mxCell id="xxSljDDeK8g1tNHwxMjp-0" value="PX INTERNO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#99FF99;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
           <mxGeometry x="1430" y="-4780" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xxSljDDeK8g1tNHwxMjp-15" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;PLANEJAMENTO OPERACIONAL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1150.0000000000002" y="-2270" width="299.5" height="69.5" as="geometry" />
-        </mxCell>
-        <mxCell id="xxSljDDeK8g1tNHwxMjp-16" value="ETAPA 4" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1974.0000000000002" y="-2050" width="152.5" height="58.87" as="geometry" />
+        <mxCell id="xxSljDDeK8g1tNHwxMjp-16" value="ETAPA 4 - ESTOQUE" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="1887.25" y="-2040" width="322.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xxSljDDeK8g1tNHwxMjp-17" value="&lt;font style=&quot;font-size: 26px&quot;&gt;CONVERSÃO - PX INTERNO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
           <mxGeometry x="1900.5000000000002" y="-1890" width="299.5" height="69.5" as="geometry" />
         </mxCell>
-        <mxCell id="xxSljDDeK8g1tNHwxMjp-18" value="ETAPA 5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1974.0000000000002" y="-1730" width="152.5" height="58.87" as="geometry" />
+        <mxCell id="xxSljDDeK8g1tNHwxMjp-18" value="ETAPA 5 - PLANEJAMENTO OPERACIONAL" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="1862.25" y="-1700" width="367.75" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xxSljDDeK8g1tNHwxMjp-19" value="&lt;font style=&quot;font-size: 26px&quot;&gt;ESTOQUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1490.0000000000002" y="-2100" width="299.5" height="69.5" as="geometry" />
+        <mxCell id="DEW9SX-gXG5aoHvgEL71-0" value="UTILIZAÇÃO DO PX INTERNO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;strokeColor=#000000;fontColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="1833.75" y="-1480" width="450" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xxSljDDeK8g1tNHwxMjp-20" value="&lt;font style=&quot;font-size: 26px&quot;&gt;ESTOQUE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
-          <mxGeometry x="1470.0000000000002" y="-1950" width="299.5" height="69.5" as="geometry" />
+        <mxCell id="DEW9SX-gXG5aoHvgEL71-1" value="PX INTERNO UTILIZADO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;strokeColor=#000000;fontColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="1260" y="-1230" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DEW9SX-gXG5aoHvgEL71-2" value="PX INTERNO PARCIALMENTE UTILIZADO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;strokeColor=#000000;fontColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="1823.63" y="-1230" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DEW9SX-gXG5aoHvgEL71-3" value="PX INTERNO NÃO UTILIZADO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#CCCCCC;strokeColor=#000000;fontColor=#000000;fontStyle=1" vertex="1" parent="lAlECgonStfRfdP6-1m2-1">
+          <mxGeometry x="2430" y="-1230" width="450" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
