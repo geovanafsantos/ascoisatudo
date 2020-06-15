@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T05:00:19.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="hlFQ_93Aj8GhPZs7gJ7z" version="13.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-15T05:00:40.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="wGw1us7mXS2vVKMcnBKd" version="13.2.4" type="github" pages="4">
   <diagram id="NAXL_VbFgQzSa9E5GdGz" name="MATÉRIA-PRIMA">
     <mxGraphModel dx="1736" dy="5645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -210,9 +210,6 @@
         </mxCell>
         <mxCell id="mpRwg_SnJiVDM1_HQCOR-1" value="SLOW MOVER" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#FF6666;strokeColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2156.93" y="-4160" width="250" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="nr6cetHuPedaB4r05hof-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="mpRwg_SnJiVDM1_HQCOR-1">
-          <mxGeometry x="124" y="46" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pqr7mSvacyFIxwxrOlfR-1" value="DEDICADO/NÃO DEDICADO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fontSize=26;fillColor=#FFD966;strokeColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1295.63" y="-3640" width="420.25" height="90" as="geometry" />
